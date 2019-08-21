@@ -3,17 +3,17 @@
 ## Source: https://github.com/hexojs/hexo/
 
 # Site
-title: Romenluo
-subtitle: Romenluo's blog
+title: Romenlm
+subtitle: Romenlm's blog
 description: 个人博客
 keywords: 前端,js,vue,html,css
-author: Romenluo
+author: Romenlm
 language: zh-CN
 timezone:
 
 # URL
 ## If your site is put in a subdirectory, set url as 'http://yoursite.com/child' and root as '/child/'
-url: http://Romenluo.github.io/
+url: http://Romenlm.github.io/
 root: /
 permalink: :year/:month/:day/:title/
 permalink_defaults:

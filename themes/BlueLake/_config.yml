@@ -78,13 +78,13 @@ copyright:
 # MathJax Support
 mathjax:
   enable: false  #true/false.
-  cdn: //cdn.bootcss.com/mathjax/2.7.1/latest.js?config=TeX-AMS-MML_HTMLorMML
+  cdn:
 
 #Cmments
 comment:
   duoshuo: #chaooo ## duoshuo_shortname
   disqus: ## disqus_shortname
-  livere: ## 来必力(data-uid)
+  livere: MTAyMC80NjExNi8yMjYyNw==
   uyan: ## 友言(uid)
   cloudTie: ## 网易云跟帖(productKey)
   changyan: ## 畅言需在下方配置两个参数，此处不填。
@@ -125,9 +125,9 @@ busuanzi: true ## If you want to use Busuanzi page views please set the value to
 
 # About page
 about:
-  photo_url: http://cdn.chaooo.top/hexo/Avatar.jpg ## Your photo url
+  photo_url: ## 关于的图片
   items:
-  - label: email
+  - label: luomenlm@outlook.com
     url: ## Your email with mailto: e.g.  mailto:zhenggchaoo@gmail.com
     title: ## Your email e.g.  zhenggchaoo@gmail.com
   - label: github
