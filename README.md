@@ -24,6 +24,16 @@ npm install
 hexo s
 ```
 
+6. 生成部署的文件
+```
+hexo g
+```
+
+7. 部署到服务器
+```
+hexo d
+```
+
 安装主题渲染
 ```
 $ git clone https://github.com/chaooo/hexo-theme-BlueLake.git themes/BlueLake

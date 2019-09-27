@@ -80,7 +80,7 @@ theme: BlueLake
 ## Docs: https://hexo.io/docs/deployment.html
 deploy:
   type: git
-  repo: https://github.com/Romenluo/Romenluo.github.io.git
+  repo: https://github.com/Romenlm/Romenlm.github.io.git
   branch: master
 
 # 代码高亮

@@ -145,9 +145,8 @@ about:
 
 # Links widget. Empty links will hide widget.
 links:
-  - title: site-name1
-    url: http://www.example1.com/
-  - title: site-name2
-    url: http://www.example2.com/
-  - title: site-name3
-    url: http://www.example3.com/
+  - title: 博客搭建
+    url: https://huangjunjia.github.io/2019/02/26/blog/blog-build/
+  - title: 博客主题
+    url: https://hexo.io/themes/
+
